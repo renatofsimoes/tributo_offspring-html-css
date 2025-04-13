@@ -1,0 +1,25 @@
+#fundoprincipal {
+  background-image: url("../img/offspringarte.jpg");
+  background-size: 20%;
+  background-position: 49.5% 34%;
+  border-radius: 10px;
+  border: 3px solid #ff7b00;
+  text-align: center;
+}
+#tituloprincipal {
+  color: #fff;
+  background-color: #000;
+  display: inline-block;
+  padding: 3px 15px;
+  border-radius: 10px;
+  border: 5px double #ffffff;
+  margin: 5px;
+  font-family: Helvetica;
+  font-size: 300%;
+  letter-spacing: 1px;
+}
+.sticky {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
