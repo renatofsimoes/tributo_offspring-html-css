@@ -18,8 +18,39 @@
   font-size: 300%;
   letter-spacing: 1px;
 }
+#subtituloprincipal {
+  color: #5f5e5e;
+  font-size: 150%;
+  text-align: center;
+  font-style: italic;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
 .sticky {
   position: sticky;
   top: 0;
   z-index: 10;
+}
+
+.img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+.titulo {
+}
+.subtitulo {
+}
+.paragrafos {
+}
+.desc {
+  color: #5f5e5e;
+  text-align: center;
+  margin-top: 1.5px;
+}
+.lista {
+}
+.frase {
 }
